@@ -10,8 +10,8 @@
 
 ## Education
 - 🇮🇹 MSc in Artificial Intelligence, University of Bologna
-- 🇫🇮 Erasmus Exchange, University of Oulu, Finland
 - 🇧🇪 Erasmus Exchange, KU Leuven, Belgium
+- 🇫🇮 Erasmus Exchange, University of Oulu, Finland
 - 🇮🇹 BSc in Computer Science Engineering, University of Florence
 
 ## Interests
