@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Lorenzo 👋
 
-<!--
-**lorenzo-massa/lorenzo-massa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌍 Passionate about travel and cultural immersion, with experience studying and working across Europe
+- 🤝 Enthusiastic collaborator who thrives in diverse, dynamic teams
+- 🧠 Strong interest and expertise in natural language processing, computer vision, and virtual reality
+- 🌐 International background with studies in Italy, Finland, and Belgium
+- 🚀 Highly motivated to relocate and bring my multicultural perspective to new challenges
+- 💡 Constantly seeking to expand my knowledge and skills in the rapidly evolving field of AI
 
-Here are some ideas to get you started:
+## Education
+- 🇮🇹 MSc in Artificial Intelligence, University of Bologna
+- 🇫🇮 Erasmus Exchange, University of Oulu, Finland
+- 🇧🇪 Erasmus Exchange, KU Leuven, Belgium
+- 🇮🇹 BSc in Computer Science Engineering, University of Florence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- 🤖 Machine Learning
+- 💻 Natural Language Processing
+- 👁️ Computer Vision
+- 🥽 Virtual Reality
+- 🏆 Motorsport
+
+## Connect with Me
+- 💼 [[LinkedIn Profile]](https://www.linkedin.com/in/lorenzo--massa/)
